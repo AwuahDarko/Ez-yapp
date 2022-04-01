@@ -7,4 +7,4 @@
 
 #### Screenshot
 
-![Alt text](github_images/Screenshot.PNG)
+![Alt text](github_images/Screenshot.png)
